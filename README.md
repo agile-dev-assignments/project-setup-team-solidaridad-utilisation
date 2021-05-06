@@ -27,16 +27,16 @@ Applicant
 ## Setup Instructions
 Frontend:
 1. Navigate to the `front-end` directory and type in `npm install` to install the dependencies
-1. Use `npm run start` to start the front-end React server
+1. Use `npm start` to start the front-end React server
 
 Backend:
 1. Navigate to the `back-end` directory and type in `npm install` to install the dependencies
 1. Modify the `.env` within `back-end` to look like this:
     ```
     MONGO_URI=...
-    JWT_SECRET=...
+    JWT_KEY=...
     ```
-1. Use `npm run start` to start the back-end Express server using `nodemon`
+1. Use `npm start` to start the back-end Express server using `nodemon`
 
 
 ## How to Contribute
