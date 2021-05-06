@@ -21,6 +21,12 @@ Backend:
 - Sprint 2:
   - Product Owner: Matthew
   - Scrum Master: Jonathan
+- Sprint 3:
+  - Product Owner: Edward
+  - Scrum Master: Jin
+- Sprint 4:
+  - Product Owner: Andrew
+  - Scrum Master: Edward
 
 ## Rules of Contributing
 - Every pull request should be related to an assigned task or bug
